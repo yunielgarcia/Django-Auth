@@ -1,0 +1,25 @@
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+Subject: Password reset on 127.0.0.1:5000
+From: webmaster@localhost
+To: ygarcia@email.com
+Date: Mon, 13 Aug 2018 16:01:34 -0000
+Message-ID: <20180813160134.15490.85233@jazwares0774.jazwares.local>
+
+
+You're receiving this email because you requested a password reset for your user account at 127.0.0.1:5000.
+
+Please go to the following page and choose a new password:
+
+http://127.0.0.1:5000/accounts/reset/Mw/4yp-1f13409a0f0daa998784/
+
+Your username, in case you've forgotten: ygarcia
+
+Thanks for using our site!
+
+The 127.0.0.1:5000 team
+
+
+
+-------------------------------------------------------------------------------
